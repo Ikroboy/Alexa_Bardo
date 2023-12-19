@@ -1,5 +1,4 @@
 # Modelo de Skill Alexa para integrar o Bard
-Use o Bard na Alexa 😊  
 
 # Instruções
 
