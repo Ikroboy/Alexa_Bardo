@@ -1,5 +1,3 @@
-# Modelo de Skill Alexa para integrar o Bard
-
 # Instruções
 
 - Crie uma Skill Alexa-hosted (Python) na Alexa: https://developer.amazon.com/alexa/console/ask/create-new-skill
