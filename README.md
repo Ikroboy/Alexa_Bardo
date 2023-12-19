@@ -1,5 +1,5 @@
-# Modelo de Skill Alexa para integrar o ChatGPT da OpenAI
-Use o ChatGPT-4 na Alexa 😊  
+# Modelo de Skill Alexa para integrar o Bard
+Use o Bard na Alexa 😊  
 
 # Instruções
 
